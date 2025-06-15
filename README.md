@@ -46,3 +46,7 @@ Then open your browser at:
 http://127.0.0.1:8080
 
 
+ Contribution
+Contributions and suggestions are welcome!
+Please open issues for bugs or feature requests.
+Pull requests are encouraged.
