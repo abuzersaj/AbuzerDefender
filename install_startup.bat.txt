@@ -1,0 +1,5 @@
+@echo off
+SET SCRIPT_PATH=D:\AbuzerDefender\abuzer_defender.exe
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v AbuzerDefender /t REG_SZ /d "%SCRIPT_PATH%" /f
+echo AbuzerDefender will run on startup.
+pause

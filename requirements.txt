@@ -1,0 +1,5 @@
+yara-python
+flask
+psutil
+pywin32
+scikit-learn
